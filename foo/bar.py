@@ -1,5 +1,5 @@
 
 
-class foo():
-	def __init__(self):
-		print("FOO BAR BASE")
+class foo:
+    def __init__(self):
+        print("FOO BAR BASE")
